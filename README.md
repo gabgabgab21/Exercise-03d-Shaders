@@ -32,4 +32,4 @@ Power-ups, etc.
 
 ## Created by 
 
-Gabbyy Thomas
+Gabby Thomas
